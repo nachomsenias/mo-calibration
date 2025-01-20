@@ -22,3 +22,33 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Eclipse
+.classpath
+.project
+
+# Project ad-hoc
+/target/
+/results/results-by-instance/*TP/WOMM/data/PARAMS_*
+/results/results-by-instance/*TP/WOMM/data/ITEMS_*
+/results/results-by-instance/*TP/WOMM/data/*/MWomABMProblem/Graph.tsv
+/results/results-by-instance/*TP/WOMM/data/*/MWomABMProblem/Objectives.tsv
+/results/results-by-instance/*TP/WOMM/data/*/MWomABMProblem/edges.csv
+/results/results-by-instance/*TP/WOMM/data/AntiIdealPoint.csv
+/results/results-by-instance/*TP/WOMM/data/front_comparison.plt
+/results/results-by-instance/*TP/WOMM/data/front_comparison.png
+/results/results-by-instance/*TP/WOMM/data/pseudooptimal.tsv
+/results/results-by-instance/*TP/WOMM/data/sum_*.out
+/results/results-by-instance/*TP/WOMM/data/p_*.csv
+/results/results-by-instance/*TP/WOMM/data/*_c.csv
+/results/results-by-instance/*TP/WOMM/data/*_ie.csv
+/results/results-by-instance/*TP/WOMM/data/*_m1.csv
+/results/results-by-instance/*TP/WOMM/data/*_m2.csv
+/results/results-by-instance/*TP/WOMM/data/*_m3.csv
+/results/results-by-instance/*TP/WOMM/data/*_s.csv
+/results/results-by-instance/*TP/WOMM/data/*_cardinality.csv
+/results/results-by-instance/*TP/WOMM/data/*/MWomABMProblem/*_front.tsv
+/results/results-by-instance/*TP/WOMM/data/hvr-pseudooptimal.txt
+/results/results-by-instance/latex/
+/results/results-by-instance/*TP/WOMM/data/*/MWomABMProblem/Indicators.csv
+/results/results-by-instance/*TP_front_comparison.png
